@@ -1,0 +1,26 @@
+html {
+    background-color: #90ee90;
+    outline: dotted 4px #f08080;
+}
+
+body h1{
+    outline: dotted 4px #f08080;
+}
+
+body p {
+    text-align: center;
+    outline: dotted 4px #f08080;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+#nxtpg {
+    position: relative; left:80%;
+}
+#nxtpg img:hover {
+    transform: rotate(45deg) scale(125%);
+
+
+}
+

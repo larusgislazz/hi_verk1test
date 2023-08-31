@@ -1,0 +1,28 @@
+html {
+    background-color: #90ee90;
+    outline: dotted 4px #f08080;
+}
+
+body h1 {
+    outline: dotted 4px #f08080;
+    padding-bottom: 100px;
+
+}
+body h2,h3,h4{
+    padding-bottom:35px;
+    outline: dotted 4px #f08080;
+}
+
+#prevpg {
+    position: relative; left:80%;
+
+}
+
+#prevpg img{
+    transform:rotate(180deg);
+}
+#prevpg img:hover {
+    scale:125%;
+
+
+}
